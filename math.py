@@ -13,3 +13,7 @@ def mul(x,y):
 #div function
 def div(x,y):
     return x//y
+    
+
+def fact():
+    pass

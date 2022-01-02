@@ -1,12 +1,15 @@
-def add():
-    pass
+#add function
+def add(x,y):
+    return x+y
 
-def sub():
-    pass
+#Sub function
+def sub(x,y):
+    return x-y
 
-def mul():
-    pass
+#Mul function
+def mul(x,y):
+    return x*y
 
-
-def div():
-    pass
+#div function
+def div(x,y):
+    return x//y
