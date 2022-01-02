@@ -14,5 +14,8 @@ def mul(x,y):
 def div(x,y):
     return x//y
     
-    
-#This is a conflict situation
+
+
+def fact():
+    pass
+
