@@ -18,4 +18,7 @@ def div(x,y):
 
 def fact():
     pass
+    
+def square(x):
+    pass
 
